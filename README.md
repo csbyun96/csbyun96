@@ -1,4 +1,6 @@
-<img width="938" alt="Screenshot 2023-05-01 154226" src="https://user-images.githubusercontent.com/127844778/235418095-0e77028c-1e85-41a5-848a-ef10b0ca9f41.png">
+<div align="right">
+
+<img width="1235" alt="image" src="https://user-images.githubusercontent.com/127844778/235857982-fe4c1a6a-fa1c-4878-9672-32f091f1fdd8.png">
 
 
 <div align="center">
